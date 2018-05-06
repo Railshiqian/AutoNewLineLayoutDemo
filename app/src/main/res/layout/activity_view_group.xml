@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.shiqian.viewgroupdemo.widget.CustomImgContainer
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#999999">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="000"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_blue_bright"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="111"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_green_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="222"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_orange_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="333"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+
+    </com.shiqian.viewgroupdemo.widget.CustomImgContainer>
+
+</LinearLayout>

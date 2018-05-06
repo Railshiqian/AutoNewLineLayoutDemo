@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.shiqian.viewgroupdemo.widget.AutoNewLineLayout
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:background="#999999">
+
+        <TextView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:text="000"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_blue_bright"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="111"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_green_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="222"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_orange_light"/>
+
+        <TextView
+            android:layout_width="5000dp"
+            android:layout_height="50dp"
+            android:text="333"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="444"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="300dp"
+            android:text="555"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="666"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="777"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="50dp"
+            android:text="888"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="999"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:text="aaa"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="250dp"
+            android:text="bbb"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="ccc"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:text="ddd"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+        <TextView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:text="eee"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@android:color/holo_red_light"/>
+
+
+    </com.shiqian.viewgroupdemo.widget.AutoNewLineLayout>
+
+</LinearLayout>
